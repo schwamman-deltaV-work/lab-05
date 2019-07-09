@@ -157,8 +157,6 @@ function multiplyAnyArray(dynamicArray) { //eslint-disable-line
   return [product, message];
 }
 
-console.log(multiplyAnyArray(testDynamicArray));
-
 // Here is the test for multiplyArray(); uncomment it to run it
 testMultiplyAnyArray(testDynamicArray);
 
